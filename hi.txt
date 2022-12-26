@@ -1,6 +1,6 @@
-https://adtago.s3.amazonaws.com
-https://analyticsengine.s3.amazonaws.com
-https://advice-ads.s3.amazonaws.com
-https://affiliationjs.s3.amazonaws.com
-https://advertising-api-eu.amazon.com
-https://amazonaax.com
+0.0.0.0 https://adtago.s3.amazonaws.com
+0.0.0.0 https://analyticsengine.s3.amazonaws.com
+0.0.0.0 https://advice-ads.s3.amazonaws.com
+0.0.0.0 https://affiliationjs.s3.amazonaws.com
+0.0.0.0 https://advertising-api-eu.amazon.com
+0.0.0.0 https://amazonaax.com
