@@ -1,16 +1,1 @@
-# Host file to block ads, tracking and more! Updated daily
-# Homepage: https://github.com/anudeepND/blacklist
-# Mirror: https://hosts.anudeep.me/mirror/
-# Release: https://github.com/anudeepND/blacklist/releases
-# Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
-# Title: Anudeep's Blacklist
-# Expires: 1 days
-# Hosts contributed by Anudeep <anudeep@protonmail.com>
-# Domain count: 42,553
-# ===================================================================
-0.0.0.0 https://adtago.s3.amazonaws.com
-0.0.0.0 https://analyticsengine.s3.amazonaws.com
-0.0.0.0 https://advice-ads.s3.amazonaws.com
-0.0.0.0 https://affiliationjs.s3.amazonaws.com
-0.0.0.0 https://advertising-api-eu.amazon.com
-0.0.0.0 https://amazonaax.com
+https://disneyplus.com
